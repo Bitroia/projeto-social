@@ -34,3 +34,24 @@ section#telefone {
     width: 750px;
     height: 750px;
 }
+
+iframe#tela{
+    position: relative;
+    top: 144px;
+    left: 238px;
+    width: 274px;
+    height: 473px;
+    background-size: cover;
+}
+
+section#redes-sociais img{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.559);
+}
+
+section#redes-sociais {
+    text-align: right;
+}
